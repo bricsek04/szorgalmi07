@@ -1,0 +1,20 @@
+1 tej kenyér
+2 csoki chips
+3 alma sajt
+4 kávé
+5 süti
+6 tej kenyér vaj
+7 csoki
+8 chips
+9 joghurt
+10 banán alma
+11 pizza
+12 tészta paradicsom
+13 keksz csoki tej
+14 sör
+15 kenyér szalámi
+16 hal rozskenyér
+17 csoki mandula
+18 tejföl krumpli
+19 joghurt banán
+20 süti kávé
